@@ -1,0 +1,13 @@
+{
+  "student": {
+    "name": "Vansh Karnwal",
+    "rollNumber": "PLACEHOLDER_ROLL_NUMBER",
+    "section": "PLACEHOLDER_SECTION",
+    "github": "Vanshkarnwal28",
+    "dockerhub": "vanshkarnwal28"
+  },
+  "images": {
+    "backend": "vanshkarnwal28/taskflow-backend:latest",
+    "frontend": "vanshkarnwal28/taskflow-frontend:latest"
+  }
+}
